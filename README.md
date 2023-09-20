@@ -8,3 +8,4 @@ En el marco de mi exploración en el campo de la ciencia de datos, he desarrolla
 ### Herramientas utilizadas:
 - Excel.
 - Power BI.
+![Captura de pantalla 2023-09-19 224029](https://github.com/FranciscoSerafini/dashboard-ventas-videojuegos/assets/112417033/38fd94e4-f52b-4ba1-ad87-3857a64677ab)
